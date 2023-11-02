@@ -62,7 +62,7 @@ function sendConfirm(options, onConfirm) {
 // Other constants
 const constants = {
     defaultCover: "static/images/no-cover.png",
-    botUsername: "BookMarketTestBot"
+    botUsername: "UNICT_Book_Market_Bot"
 };
 
 
